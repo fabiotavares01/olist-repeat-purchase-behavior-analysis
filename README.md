@@ -517,3 +517,6 @@ olist-repeat-purchase-analysis/
 5. Transfer the clean tables + `customer_repeat_purchase` to new CSV files using pgAdmin's Import/Export function
 
 You can also view the dashboard directly on Power BI: [![View Dashboard on Power BI](https://img.shields.io/badge/View%20Dashboard-Power%20BI-yellow)](https://app.powerbi.com/links/n1KF1reg1w?ctid=a6c348d1-c407-43cb-b532-13fe5b3b952d&pbi_source=linkShare)
+
+## Author
+Fábio Tavares | 2026
